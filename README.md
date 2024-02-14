@@ -1,14 +1,11 @@
 # 포트폴리오 사이트 REACT로 만들기 프로젝트
 
-참고 사이트
-[react.js](https://github.com/webstoryboy/port2023-react)를 이용하여 사이트를 제작합니다. 
-출처: https://webstoryboy.co.kr/1934 [WEBSTORYBOY:티스토리]
+- 참고 사이트
+- [react.js](https://github.com/webstoryboy/port2023-react)를 이용하여 사이트를 제작합니다. 
+- 출처: https://webstoryboy.co.kr/1934 [WEBSTORYBOY:티스토리]
 
-자바스크립트 프레임워크를 통해 사이트를 효율적으로 만들어 보는 방법을 익힙니다. 
-깊이 배우기 보다는 다양한 방법을 사용하여 흐름과 감각을 익히기 위한 튜토리얼입니다. 
-
-## 완성작 보기 
-미리보기 : 
+- 자바스크립트 프레임워크를 통해 사이트를 효율적으로 만들어 보는 방법을 익힙니다. 
+- 깊이 배우기 보다는 다양한 방법을 사용하여 흐름과 감각을 익히기 위한 튜토리얼입니다. 
 
 ## 사용 스택
 - react(https://ko.legacy.reactjs.org/) 를 사용하여 사이트를 번들링하고 관리합니다.
